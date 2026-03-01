@@ -1,5 +1,3 @@
-# izy-kiosque-
-Izy Kiosque shop 
 <!DOCTYPE html>
 <html lang="mg">
 <head>
